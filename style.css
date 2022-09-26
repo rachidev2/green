@@ -1,0 +1,72 @@
+body{
+    background-image: url('img/fond.png');
+}
+
+
+.bloc-center{
+    width: 700px;
+    margin: auto;
+    background-color: #B8CB21;
+    
+    
+}
+.logo{
+    float: left;
+}
+
+.menu ul li{
+    display: inline-block;  
+    margin: 45px;
+    
+}
+.menu ul li a{
+    text-transform: uppercase;    
+    
+     
+    
+   
+    
+
+}
+main{
+    clear: both;
+    background-color: #fff;
+    padding: 30px 20px;
+}
+h2{
+    color: green;
+    text-transform: uppercase;
+}
+
+.who{
+    float: left;
+    width: 230px;
+    padding-right: 10px;
+}
+button{
+    text-align: right;
+}
+
+.article-footer{
+    text-align: right;
+    
+       
+}
+nav{
+    bottom: -10px ;
+}
+
+.push-button{
+    background-color: #B8CB21
+}
+.logo2{    
+    width: 50px;
+    height: 50px;
+    
+}
+.logofooter{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
